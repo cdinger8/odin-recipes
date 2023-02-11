@@ -1,1 +1,3 @@
 # odin-recipes
+Here is my first read me for some unknown project i am going to start for the odin project.
+Wish me luck...
